@@ -20,6 +20,8 @@ Images of the app:
 -------------------
 Home Page:
 https://user-images.githubusercontent.com/62262833/90706192-ef892080-e294-11ea-8af5-7f44ec5f487f.jpeg
+
+
 Details Screens:
 https://user-images.githubusercontent.com/62262833/90706207-f6b02e80-e294-11ea-8e05-03701995782d.jpeg
 https://user-images.githubusercontent.com/62262833/90706226-fe6fd300-e294-11ea-9a8c-6216b9d68f14.jpeg
